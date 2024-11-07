@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jamster3000&show_icons=true&theme=synthwave" alt="Jamster3000's GitHub Stats" width="48%"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jamster3000&show_icons=true&theme=synthwave" alt="Jamster3000's GitHub Stats" width="50%"  />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamster3000&theme=synthwave&layout=compact" alt="Jamster3000's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamster3000&theme=synthwave&layout=compact" alt="Jamster3000's Top Languages" width="50%" />
   
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamster3000&theme=tokyo-night" alt="Jamster3000's GitHub Activity Graph" width="100%" />
