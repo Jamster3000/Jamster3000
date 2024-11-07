@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamster3000&show_icons=true&theme=synthwave)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamster3000&repo=Joan-smart-assistant)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamster3000)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @Jamster3000
 - 👀 I’m passionate about programming and eager to learn new languages. I'm currently a college student with a work placement but still find little bits of time to work on my own programming projects too.
 - 🌿 I have currently mastered python and starting to delve into c# and the basics of javascript.
