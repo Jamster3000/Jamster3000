@@ -2,10 +2,27 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamster3000&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamster3000&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+# Hey there! 👋 I'm Jamster3000
 
-- 👋 Hi, I’m @Jamster3000
-- 👀 I’m passionate about programming and eager to learn new languages. I'm currently a college student with a work placement but still find little bits of time to work on my own programming projects too.
-- 🌿 I have currently mastered python and starting to delve into c# and the basics of javascript.
-- 🍂 I am very interested in machine learning as it seems so easy to set up the basics, just wish the data collection would be faster.
-- 🌱 I've dabbles with c++ a bit in the past but might be working on learning that more in the future.
-- I'm a dungeons and dragons fan so I have put myself out there in the Cauldron-vtt community for dnd specifically, including a website full of guidance on hoe to use every feature of Cauldron and a web browser extension.
+I'm a passionate programmer and a college student currently diving deep into computer programming. I've been told I have a knack for it, and I'm constantly working to push my limits. My main language is Python, which I'm pretty much fluent in—like the back of my hand. Besides college, I’m also on a work placement (also in programming, naturally) and love taking on personal projects when I get the time.
+
+**My favorite techs?** Machine learning is awesome, and I’m always eager to learn something new.
+
+Although my main focus is on Python, I have dabbled in Assembly (ASM) and C++. No immediate plans to expand on those, but who knows where curiosity might lead!
+
+## Projects Outside of GitHub 🌐
+
+Here are a couple of my notable projects that can’t be hosted on GitHub:
+
+- ### [Cauldron-VTT](https://extension.cauldron-vtt.net/)
+  - A fantastic free Virtual Tabletop (VTT) for role-playing games like *Dungeons & Dragons*.
+  - **My role**: I developed a comprehensive website for the Cauldron-VTT community, creating an in-depth guide and a browser extension for enhanced usability.
+  - The browser extension is available on my GitHub profile.
+
+- ### [Rusty Baines Collectables](https://rustybainescollectables.co.uk)
+  - An e-commerce Shopify website developed for a small family-run business.
+  - **Challenges & Achievements**: This was a “learn as you go” project where I picked up `liquid code` and mastered Shopify’s framework to meet the business’s unique needs.
+
+---
+
+Got any tips to make this look even better? Or ways to add some flair? I’d love to hear them!
