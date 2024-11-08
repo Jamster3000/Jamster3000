@@ -1,7 +1,4 @@
-<div align="center">
-    <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=jamster3000&style=flat-square&color=blue" alt="Jmaster3000's Visitor Couner">
-  
+<div align="center">  
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=jamster3000&show_icons=true&theme=synthwave" alt="Jamster3000's GitHub Stats" width="48%" height="195" />
   
