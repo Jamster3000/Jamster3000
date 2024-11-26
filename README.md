@@ -39,6 +39,6 @@ Here are a couple of my notable projects that can’t be hosted on GitHub:
 Got any tips to make this look even better? Or ways to add some flair? I’d love to hear them!
 
 ---
-**Want help with your code? Got bugs that just won't budge? Or maybe you’re looking for a chill programming community?**
+**Want help with your code? Got bugs that just won't budge? Or maybe you’re looking for a chilled programming community?**
 
 Join **[The Coding Corner](https://discord.gg/mc5gBvhmdW)** – an open and welcoming programming server! Whether you’re a complete beginner, an experienced coder, or an expert looking to collaborate, you'll find a place here. Get help with your code, ask for feedback on your projects, and connect with like-minded programmers in a laid-back environment.
