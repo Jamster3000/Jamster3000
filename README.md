@@ -18,7 +18,12 @@ I'm a passionate programmer and a college student currently diving deep into com
 
 Although my main focus is on Python, I have dabbled in Assembly (ASM) and C++. No immediate plans to expand on those, but who knows where curiosity might lead!
 
-## Projects Outside of GitHub 🌐
+# **🛠️ Technologies & Tools**
+- **Languages**: Python, C#, JavaScript, HTML/CSS, Bash
+- **Frameworks**: Scikit-learn, Blazor, Shopify (liquid)
+- **Tools & Platforms**: Firebase, Github, Git, Visual Studio, Visual studio code, Gimp, Inkscape
+
+## 🚀 Projects Outside of GitHub 🌐
 
 Here are a couple of my notable projects that can’t be hosted on GitHub:
 
@@ -33,10 +38,14 @@ Here are a couple of my notable projects that can’t be hosted on GitHub:
 
 - ### [Dragon Maps](https://dragon-maps.web.app)
   - A static website for creating fantasy battlemaps for Virtual Table Tops.
-  - THis is still in development and is constantly being worked on and updated in my free time.
+  - This is still in development and is constantly being worked on and updated in my free time.
 ---
+🚀 Got an idea, feedback, or want to collaborate? Drop me a message!
 
-Got any tips to make this look even better? Or ways to add some flair? I’d love to hear them!
+
+## 🤝 Let's Connect
+[![Join My Discord Server](https://img.shields.io/badge/Join%20my-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mc5gBvhmdW)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jamie-baines-424860253/)
 
 ---
 **Want help with your code? Got bugs that just won't budge? Or maybe you’re looking for a chilled programming community?**
