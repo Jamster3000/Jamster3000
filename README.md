@@ -8,6 +8,8 @@
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamster3000&theme=tokyo-night" alt="Jamster3000's GitHub Activity Graph" width="100%" />
 
+  <a href="https://stardev.io/developers/Jamster3000"><img alt="Check out Jamster3000's profile on stardev.io" src="https://stardev.io/developers/Jamster3000/badge/languages/locality.svg" />test</a>
+
 </div>
 
 # Hey there! 👋 I'm Jamster3000
