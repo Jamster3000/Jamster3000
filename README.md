@@ -20,7 +20,7 @@ Although my main focus is on Python, I have dabbled in Assembly (ASM) and C++. N
 
 # **🛠️ Technologies & Tools**
 - **Languages**: Python, C#, JavaScript, HTML/CSS, Bash
-- **Frameworks**: Scikit-learn, Blazor, Shopify (liquid)
+- **Frameworks**: Scikit-learn, Blazor, Shopify (liquid), ASP.NET MVC
 - **Tools & Platforms**: Firebase, Github, Git, Visual Studio, Visual studio code, Gimp, Inkscape
 
 ## 🚀 Projects Outside of GitHub 🌐
