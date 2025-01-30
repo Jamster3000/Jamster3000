@@ -27,7 +27,7 @@ Although my main focus is on Python, I have dabbled in Assembly (ASM) and C++. N
 
 Here are a couple of my notable projects that can’t be hosted on GitHub:
 
-- ### [Cauldron-VTT](https://extension.cauldron-vtt.net/)
+- ### [Cauldron-vtt Guide](https://extension.cauldron-vtt.net/)
   - A fantastic free Virtual Tabletop (VTT) for role-playing games like *Dungeons & Dragons*.
   - **My role**: I developed a comprehensive website for the Cauldron-VTT community, creating an in-depth guide and a browser extension for enhanced usability.
   - The browser extension is available on my GitHub profile.
