@@ -65,7 +65,7 @@ Although my main focus is on Python, I have dabbled in Assembly (ASM) and C++. N
       <div style="border: 2px solid #30363d; border-radius: 10px; padding: 1rem; margin: 0.5rem; background-color: #0d1117;">
         <img src="https://img.icons8.com/ios-filled/ffffff/genealogy.png" width="60" alt="Family Weaver">
         <h3>Family Weaver</h3>
-        <p style="margin: 0.5rem 0;">Another project that is currently in progress in my free time. A web application to create and manage family tree research. I explain my reasoning for the creation of this and why I'm not exactly "reinventing the wheel" </p>
+        <p style="margin: 0.5rem 0;">Another project that is currently in progress in my free time. A web application to create and manage family tree research. I explain my reasoning for the creation of this and why I'm not exactly "reinventing the wheel" on the about page of this site. </p>
         <a href="https://family-weaver.web.app" style="display: inline-block; padding: 0.5rem 1rem; background-color: #238636; color: white; text-decoration: none; border-radius: 6px; margin-top: 0.5rem;">Visit Site →</a>
       </div>
     </td>
