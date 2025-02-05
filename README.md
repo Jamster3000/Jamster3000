@@ -23,22 +23,53 @@ Although my main focus is on Python, I have dabbled in Assembly (ASM) and C++. N
 - **Frameworks**: Scikit-learn, Blazor, Shopify (liquid), ASP.NET MVC
 - **Tools & Platforms**: Firebase, Github, Git, Visual Studio, Visual studio code, Gimp, Inkscape
 
-## 🚀 Projects Outside of GitHub 🌐
 
-Here are a couple of my notable projects that can’t be hosted on GitHub:
 
-- ### [Cauldron-vtt Guide](https://extension.cauldron-vtt.net/)
-  - A fantastic free Virtual Tabletop (VTT) for role-playing games like *Dungeons & Dragons*.
-  - **My role**: I developed a comprehensive website for the Cauldron-VTT community, creating an in-depth guide and a browser extension for enhanced usability.
-  - The browser extension is available on my GitHub profile.
 
-- ### [Rusty Baines Collectables](https://rustybainescollectables.co.uk)
-  - An e-commerce Shopify website developed for a small family-run business.
-  - **Challenges & Achievements**: This was a “learn as you go” project where I picked up `liquid code` and mastered Shopify’s framework to meet the business’s unique needs.
 
-- ### [Dragon Maps](https://dragon-maps.web.app)
-  - A static website for creating fantasy battlemaps for Virtual Table Tops.
-  - This is still in development and is constantly being worked on and updated in my free time.
+# 🚀 Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <!-- Column 1 -->
+    <td align="center" width="33%">
+      <div style="border: 2px solid #30363d; border-radius: 10px; padding: 1rem; margin: 0.5rem; background-color: #0d1117;">
+        <img src="https://img.icons8.com/ios-filled/100/ffffff/book.png" width="60" alt="Cauldron-VTT Guide">
+        <h3>Cauldron-VTT Guide</h3>
+        <p style="margin: 0.5rem 0;">A comprehensive guide & extension for free Virtual Tabletop RPGs</p>
+        <a href="https://extension.cauldron-vtt.net/" style="display: inline-block; padding: 0.5rem 1rem; background-color: #238636; color: white; text-decoration: none; border-radius: 6px; margin-top: 0.5rem;">View Guide →</a>
+      </div>
+    </td> 
+    <!-- Column 2 -->
+    <td align="center" width="33%">
+      <div style="border: 2px solid #30363d; border-radius: 10px; padding: 1rem; margin: 0.5rem; background-color: #0d1117;">
+        <img src="https://img.icons8.com/fluency/100/shop.png" width="60" alt="Rusty Baines Collectables">
+        <h3>Rusty Baines Collectables</h3>
+        <p style="margin: 0.5rem 0;">A Shopify e-commerce platform for unique collectables</p>
+        <a href="https://rustybainescollectables.co.uk" style="display: inline-block; padding: 0.5rem 1rem; background-color: #238636; color: white; text-decoration: none; border-radius: 6px; margin-top: 0.5rem;">Visit Store →</a>
+      </div>
+    </td>
+    <!-- Column 3 -->
+    <td align="center" width="33%">
+      <div style="border: 2px solid #30363d; border-radius: 10px; padding: 1rem; margin: 0.5rem; background-color: #0d1117;">
+        <img src="https://img.icons8.com/color/100/dragon.png" width="60" alt="Dragon Maps">
+        <h3>Dragon Maps</h3>
+        <p style="margin: 0.5rem 0;">Create stunning fantasy battlemaps for your VTT adventures</p>
+        <a href="https://dragon-maps.web.app" style="display: inline-block; padding: 0.5rem 1rem; background-color: #238636; color: white; text-decoration: none; border-radius: 6px; margin-top: 0.5rem;">Start Creating →</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- Empty columns for spacing -->
+    <td width="33%"></td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
+</div>
+
+
 ---
 🚀 Got an idea, feedback, or want to collaborate? Drop me a message!
 
