@@ -25,7 +25,7 @@ Although my main focus is on Python, I have dabbled in Assembly (ASM) and C++. N
 <br><br><br><br>
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects outside of Github
 
 <div align="center">
 <table>
