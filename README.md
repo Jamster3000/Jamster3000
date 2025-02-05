@@ -10,7 +10,7 @@
 
 </div>
 
-# Hey there! 👋 I'm Jamster3000
+# Hey there! 👋 I'm Jamster
 
 I'm a passionate programmer and a college student currently diving deep into computer programming. I've been told I have a knack for it, and I'm constantly working to push my limits. My main language is Python, which I'm pretty much fluent in—like the back of my hand. Besides college, I’m also on a work placement (also in programming, naturally) and love taking on personal projects when I get the time.
 
