@@ -14,7 +14,7 @@
 
 I'm a passionate programmer and a college student currently diving deep into computer programming. I've been told I have a knack for it, and I'm constantly working to push my limits. My main language is Python, which I'm pretty much fluent in—like the back of my hand. Besides college, I’m also on a work placement (also in programming, naturally) and love taking on personal projects when I get the time.
 
-**My favorite techs?** Machine learning is awesome, and I’m always eager to learn something new.
+**My favorite techs?** Machine learning has to be the best up there, although I have really started to love the idea of web applications how they can easily be converted into installable applications and easily setup to cache content for offline usage.
 
 Although my main focus is on Python, I have dabbled in Assembly (ASM) and C++. No immediate plans to expand on those, but who knows where curiosity might lead!
 
