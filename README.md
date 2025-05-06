@@ -78,7 +78,14 @@ Although my main focus is on Python, I have dabbled in Assembly (ASM) and C++. N
         <a href="https://conan-tablecraft.web.app" style="display: inline-block; padding: 0.5rem 1rem; background-color: #238636; color: white; text-decoration: none; border-radius: 6px; margin-top: 0.5rem;">Visit Site →</a>
       </div>
     </td>
-    <td width="33%"></td>
+    <td align="center" width="33%">
+      <div style="border: 2px solid #30363d; border-radius: 10px; padding: 1rem; margin: 0.5rem; background-color: #0d1117;">
+        <img src="https://img.icons8.com/ios-filled/ffffff/chat.png" width="60" alt="Clustr-online">
+        <h3>Clustr-online</h3>
+        <p style="margin: 0.5rem 0;">This was originally supposed to be a project where I experiemented with using Firebase features to implement realtime chat, but I decided to flesh it out more and keep it.</p>
+        <a href="https://clustr-online.web.app" style="display: inline-block; padding: 0.5rem 1rem; background-color: #238636; color: white; text-decoration: none; border-radius: 6px; margin-top: 0.5rem;">Visit Site →</a>
+      </div>
+    </td>
   </tr>
 </table>
 </div>
